@@ -1,0 +1,5 @@
+1.collect banch of photos
+2.turn it in grey scale(because only this way computer's algorithm can find out face)
+3.train algorithm to detect faces
+------///---
+here code start
